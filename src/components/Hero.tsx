@@ -82,7 +82,7 @@ export default function Hero() {
           {/* Left Image */}
           <div className="absolute left-0 md:left-[2%] top-[10%] w-[45%] md:w-[32%] aspect-[3/4] rounded-[2rem] overflow-hidden border-8 border-white shadow-2xl transform -rotate-6 hover:rotate-0 hover:scale-105 transition-all duration-500 z-10">
             <img 
-              src="/Children 1.png" 
+              src="/children-1.png" 
               alt="Happy learning child" 
               className="w-full h-[115%] object-cover object-top"
             />
@@ -92,21 +92,21 @@ export default function Hero() {
           <div className="absolute left-1/2 -translate-x-1/2 top-0 w-[50%] md:w-[38%] aspect-[3/4] z-30 transform hover:-translate-y-4 hover:scale-105 transition-all duration-500">
             <div className="w-full h-full rounded-[2.5rem] overflow-hidden border-8 border-white shadow-2xl">
               <img 
-                src="/children 2.png" 
+                src="/children-2.png" 
                 alt="Engaged student" 
                 className="w-full h-[115%] object-cover object-top"
               />
             </div>
             {/* Logo overlay on top left */}
             <div className="absolute top-4 -left-2 md:-left-4 w-24 h-24 md:w-32 md:h-32 flex items-center justify-center z-40 pointer-events-none">
-              <img src="/LOGO.PNG" alt="爱德问趣 Logo" className="w-full h-full object-contain drop-shadow-md" />
+              <img src="/logo.png" alt="爱德问趣 Logo" className="w-full h-full object-contain drop-shadow-md" />
             </div>
           </div>
           
           {/* Right Image */}
           <div className="absolute right-0 md:right-[2%] top-[20%] w-[45%] md:w-[32%] aspect-[3/4] rounded-[2rem] overflow-hidden border-8 border-white shadow-2xl transform rotate-6 hover:rotate-0 hover:scale-105 transition-all duration-500 z-20">
             <img 
-              src="/children 3.png" 
+              src="/children-3.png" 
               alt="Smiling student" 
               className="w-full h-[115%] object-cover object-top"
             />

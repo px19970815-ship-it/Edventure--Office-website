@@ -3,15 +3,15 @@ import { motion } from 'motion/react';
 export default function Gallery() {
   const images = [
     {
-      url: "/Picture1.jpg",
+      url: "/picture-1.jpg",
       title: "小班互动"
     },
     {
-      url: "/Picture2.jpg",
+      url: "/picture-2.jpg",
       title: "主动表达"
     },
     {
-      url: "/Picture3.jpg",
+      url: "/picture-3.jpg",
       title: "精美作业"
     }
   ];

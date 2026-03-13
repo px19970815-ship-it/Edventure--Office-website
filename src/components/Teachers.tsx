@@ -11,7 +11,7 @@ export default function Teachers() {
         <div className="relative mb-24 rounded-[2.5rem] bg-gradient-to-r from-blue-50 to-transparent p-6 md:p-12 overflow-hidden flex items-center min-h-[450px]">
           {/* Background Image and Floating Elements */}
           <div className="absolute inset-0 md:left-[20%] flex justify-end items-center z-0">
-            <img src="/teachers.PNG" alt="爱德问趣师资团队" className="w-full h-full object-cover md:object-contain object-right opacity-40 md:opacity-100 scale-110 md:scale-125 origin-right md:translate-x-12" />
+            <img src="/teachers.png" alt="爱德问趣师资团队" className="w-full h-full object-cover md:object-contain object-right opacity-40 md:opacity-100 scale-110 md:scale-125 origin-right md:translate-x-12" />
             
             {/* Floating UI Elements (Visible mainly on md+ screens) */}
             <div className="hidden md:block absolute inset-0 pointer-events-none">
